@@ -1,0 +1,957 @@
+{
+ "barcelona": {
+  "playero": {
+   "titular": "¡Vive el sol y la música en Barcelona!",
+   "barrios_sugeridos": [
+    "el Parc i la Llacuna del Poblenou",
+    "la Vila de Gràcia",
+    "Sant Pere, Santa Caterina i la Ribera"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Playa de Sant Sebastià",
+     "por_que": "Ideal para un amanecer relajado junto al mar y un paseo matutino",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Platja de la Barceloneta",
+     "por_que": "Perfecta para surfear y probar tapas en los chiringuitos locales",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Razzmatazz",
+     "por_que": "Para terminar el día con música y ambiente vibrante",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Mirador de l'Estrella",
+     "por_que": "Ofrece vistas panorámicas del horizonte costero",
+     "momento": "cualquier momento"
+    },
+    {
+     "nombre": "El Asador de Aranda",
+     "por_que": "Disfruta de cocina española tradicional con mariscos frescos",
+     "momento": "cualquier momento"
+    }
+   ],
+   "plan_dia_tipo": "Mañana en Playa de Sant Sebastià, tarde surf en Platja de la Barceloneta y noche en Razzmatazz",
+   "consejos": [
+    "Lleva protector solar y una botella de agua reutilizable",
+    "Busca chiringuitos con vistas al mar para disfrutar del atardecer",
+    "Planifica tus visitas a la playa temprano para evitar multitudes"
+   ]
+  },
+  "foodie": {
+   "titular": "Saborea Barcelona: mercados, tapas y cocina local",
+   "barrios_sugeridos": [
+    "Sant Pere, Santa Caterina i la Ribera",
+    "la Vila de Gràcia",
+    "el Camp de l'Arpa del Clot"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Mercat de Sant Josep - La Boqueria",
+     "por_que": "El aroma de frutas frescas y mariscos te invita a comenzar el día",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Mercado de Santa Catarina",
+     "por_que": "Ambiente bohemio y variedad de productos locales",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "El Asador de Aranda",
+     "por_que": "Cocina española tradicional con un toque moderno",
+     "momento": "cualquier momento"
+    },
+    {
+     "nombre": "Disfrutar",
+     "por_que": "Experiencia gastronómica de alta cocina que sorprende",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "7 Portes",
+     "por_que": "Clásicas tapas y mariscos en un ambiente histórico",
+     "momento": "cualquier momento"
+    }
+   ],
+   "plan_dia_tipo": "Mañana en La Boqueria, almuerzo en 7 Portes, tarde en Disfrutar y cena en El Asador de Aranda",
+   "consejos": [
+    "Explora los mercados temprano para evitar multitudes",
+    "Prueba las tapas en los puestos locales",
+    "Aprovecha los horarios de apertura de los mercados"
+   ]
+  },
+  "cultural": {
+   "titular": "Barcelona: Cultura, Arte y Teatro en un día",
+   "barrios_sugeridos": [
+    "Sant Pere, Santa Caterina i la Ribera",
+    "la Vila de Gràcia",
+    "el Barri Gòtic"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Catedral de la Santa Creu i Santa Eulàlia",
+     "por_que": "Explora su arquitectura gótica y su historia milenaria.",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Teatre Lliure",
+     "por_que": "Disfruta de una obra contemporánea en un teatro íntimo.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Museo Picasso",
+     "por_que": "Descubre la evolución del artista en su obra más famosa.",
+     "momento": "cualquier momento"
+    },
+    {
+     "nombre": "Pavelló Mies van der Rohe",
+     "por_que": "Admira el diseño modernista y la armonía de sus espacios.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Palau de la Música Catalana",
+     "por_que": "Vive una experiencia musical en un escenario impresionante.",
+     "momento": "noche"
+    }
+   ],
+   "plan_dia_tipo": "Mañana: Catedral de la Santa Creu i Santa Eulàlia. Tarde: Pavelló Mies van der Rohe y Teatre Lliure. Noche: Palau de la Música Catalana.",
+   "consejos": [
+    "Lleva un mapa de la ciudad y un plan de transporte público; Barcelona tiene excelentes metros y autobuses.",
+    "Visita los lugares con anticipación para evitar filas, especialmente en museos y teatros.",
+    "Aprovecha los horarios de entrada libre en museos cuando sea posible."
+   ]
+  },
+  "caminador": {
+   "titular": "Descubre Barcelona a pie: parques, miradores y rutas inolvidables",
+   "barrios_sugeridos": [
+    "Sant Pere, Santa Caterina i la Ribera",
+    "la Vila de Gràcia",
+    "el Parc i la Llacuna del Poblenou"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Parc de la Ciutadella",
+     "por_que": "Ideal para comenzar el día con un paseo relajado entre jardines y el lago.",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Pedrera dels Ocells",
+     "por_que": "Un mirador tranquilo que ofrece vistas espectaculares del skyline de Barcelona.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Parque del Laberinto de Horta",
+     "por_que": "Perfecto para explorar su laberinto y disfrutar de la naturaleza en un entorno histórico.",
+     "momento": "cualquier momento"
+    },
+    {
+     "nombre": "Mirador de l'Estrella",
+     "por_que": "Disfruta de la vista nocturna de la ciudad y el mar.",
+     "momento": "noche"
+    }
+   ],
+   "plan_dia_tipo": "Mañana: Parque de la Ciutadella → Tarde: Pedrera dels Ocells → Noche: Mirador de l'Estrella",
+   "consejos": [
+    "Lleva calzado cómodo para largas caminatas.",
+    "Planifica tu ruta con antelación para aprovechar los horarios de apertura.",
+    "Aprovecha los miradores para pausas y fotos panorámicas."
+   ]
+  },
+  "familiar": {
+   "titular": "Barcelona: Diversión familiar sin límites",
+   "barrios_sugeridos": [
+    "Sant Pere, Santa Caterina i la Ribera",
+    "la Vila de Gràcia",
+    "el Parc i la Llacuna del Poblenou"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Parc de la Ciutadella",
+     "por_que": "Espacio amplio para que los niños jueguen y la familia disfrute de un paseo relajado",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "l'Aquàrium de Barcelona",
+     "por_que": "Atrae a todas las edades con sus exhibiciones marinas interactivas",
+     "momento": "cualquier momento"
+    },
+    {
+     "nombre": "Parc d'Atraccions Tibidabo",
+     "por_que": "Diversión garantizada con atracciones para niños y adultos",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "museo del chocolate",
+     "por_que": "Una experiencia dulce y educativa para los pequeños",
+     "momento": "cualquier momento"
+    }
+   ],
+   "plan_dia_tipo": "Mañana en el Parc de la Ciutadella, tarde en la Playa de la Barceloneta y noche en el l'Aquàrium de Barcelona para cerrar el día con diversión acuática.",
+   "consejos": [
+    "Planifica actividades al aire libre para aprovechar el buen clima",
+    "Reserva entradas con antelación para evitar filas",
+    "Incluye tiempo de descanso entre visitas para los niños"
+   ]
+  },
+  "generalista": {
+   "titular": "Barcelona en una semana: arte, mar y sabor sin prisa",
+   "barrios_sugeridos": [
+    "Sant Pere, Santa Caterina i la Ribera",
+    "la Vila de Gràcia",
+    "el Barri Gòtic"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Catedral de la Santa Creu i Santa Eulàlia",
+     "por_que": "El corazón histórico de la ciudad, ideal para empezar el día con calma",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Museo Picasso",
+     "por_que": "La colección esencial para entender el genio catalán en un solo lugar",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Mercat de Sant Josep - La Boqueria",
+     "por_que": "Un paseo sensorial entre frutas, jamones y ostras que resume el alma barcelonesa",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Parc de la Ciutadella",
+     "por_que": "El pulmón verde perfecto para una pausa entre monumentos",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Disfrutar",
+     "por_que": "Una experiencia gastronómica de vanguardia que cierra el día con estilo",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Platja de la Barceloneta",
+     "por_que": "La playa urbana más icónica para ver el atardecer frente al mar",
+     "momento": "cualquier momento"
+    }
+   ],
+   "plan_dia_tipo": "Empezá la mañana en la Catedral de la Santa Creu i Santa Eulàlia y luego visitá el Museo Picasso para cargar de arte. Al mediodía, perdete por La Boqueria probando tapas, y por la tarde caminá por el Parc de la Ciutadella hasta llegar a la Barceloneta para ver caer el sol. Cerrá la noche con una cena en Disfrutar.",
+   "consejos": [
+    "Reservá con anticipación para Disfrutar, ya que es un restaurante de alta demanda con horarios limitados.",
+    "Llevá efectivo o tarjeta para los mercados: en La Boqueria y Santa Catarina es común pagar en efectivo por los puestos.",
+    "Aprovechá los parques como refugio del calor: el Parc de la Ciutadella y Turó Parc ofrecen sombra y espacios amplios para descansar."
+   ]
+  },
+  "museos": {
+   "titular": "Barcelona: Ruta imprescindible para amantes de los museos",
+   "barrios_sugeridos": [
+    "Sant Pere, Santa Caterina i la Ribera",
+    "la Vila de Gràcia",
+    "el Camp de l'Arpa del Clot"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Museo Picasso",
+     "por_que": "Explora la evolución del arte de Picasso en una de las colecciones más completas.",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Pavelló Mies van der Rohe",
+     "por_que": "Admira la arquitectura modernista y su influencia en el diseño contemporáneo.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "àngels barcelona",
+     "por_que": "Disfruta de exposiciones contemporáneas en un ambiente íntimo y creativo.",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Yellowkorner",
+     "por_que": "Descubre obras de artistas emergentes en un espacio dinámico y fresco.",
+     "momento": "tarde"
+    }
+   ],
+   "plan_dia_tipo": "Mañana en el Museo Picasso, tarde en el Pavelló Mies van der Rohe y noche en àngels barcelona para una jornada artística completa.",
+   "consejos": [
+    "Planifica tus visitas con antelación, especialmente en museos con horarios reducidos.",
+    "Aprovecha los días de entrada gratuita o descuentos si los tienes disponibles.",
+    "Lleva una botella de agua y snacks, ya que algunos museos no permiten comida dentro."
+   ]
+  },
+  "nocturno": {
+   "titular": "Noche de ritmo y sabor en Barcelona",
+   "barrios_sugeridos": [
+    "la Vila de Gràcia",
+    "el Barri Gòtic",
+    "Sant Pere, Santa Caterina i la Ribera"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Razzmatazz",
+     "por_que": "Amplio espacio con conciertos y DJ sets que mantienen la energía hasta altas horas",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Sala Apolo",
+     "por_que": "Clásico de la escena musical con variedad de géneros y ambiente íntimo",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Sala Bikini",
+     "por_que": "Espacio alternativo con música electrónica y ambiente relajado",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Disfrutar",
+     "por_que": "Fine dining que ofrece una experiencia gastronómica antes de la noche",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "El Asador de Aranda",
+     "por_que": "Cocina española tradicional que prepara el paladar para la noche",
+     "momento": "tarde"
+    }
+   ],
+   "plan_dia_tipo": "Comienza con una cena en Disfrutar, luego disfruta de la música en Sala Apolo, y termina la noche con un show en Razzmatazz",
+   "consejos": [
+    "Explora los barrios con vida nocturna para encontrar los mejores bares y música en vivo",
+    "Busca eventos y conciertos en los locales para aprovechar la oferta nocturna",
+    "Mantén tu móvil cargado y lleva una copia de tu itinerario para no perderte"
+   ]
+  }
+ },
+ "madrid": {
+  "foodie": {
+   "titular": "Madrid se saborea calle a calle, tapa a tapa",
+   "barrios_sugeridos": [
+    "Sol",
+    "Palacio",
+    "Rejas"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Mercado de San Miguel",
+     "por_que": "Su pasillo de puestos de tapas y productos locales es el epicentro del foodie en Madrid",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Mercado de San Antón",
+     "por_que": "Ambiente más relajado para probar bocados y ver cómo se cocina la cocina local",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "La Bola",
+     "por_que": "Clásico de cocina regional donde probar cocido y pinchos en un entorno con historia",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Villa Rosa",
+     "por_que": "Otra parada de cocina regional para profundizar en los sabores tradicionales",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Joy Eslava",
+     "por_que": "Bar de ambiente para seguir la velada con copas y conversación",
+     "momento": "noche"
+    }
+   ],
+   "plan_dia_tipo": "Empezá la mañana recorriendo Mercado de San Miguel y San Antón, probando tapas de pie. A la tarde, sentate a comer en La Bola o Villa Rosa para disfrutar la cocina regional. De noche, subí el nivel con DiverXo o relajate con una copa en Joy Eslava.",
+   "consejos": [
+    "Llevá efectivo y paciencia: en los mercados los puestos más populares suelen tener fila, sobre todo al mediodía.",
+    "Aprovechá los horarios extendidos de Mercado de San Miguel los fines de semana para comer de tapas sin prisa.",
+    "Reservá con anticipación en DiverXo, ya que su horario de servicio es acotado y la demanda es alta."
+   ]
+  },
+  "cultural": {
+   "titular": "Madrid: arte y teatro en cada esquina",
+   "barrios_sugeridos": [
+    "Sol",
+    "Palacio",
+    "Universidad"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Museo del Prado",
+     "por_que": "Su colección maestra de pintura europea es esencial para cualquier amante del arte.",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Teatro Real",
+     "por_que": "Ofrece óperas y conciertos en un marco histórico incomparable.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Palacio Real de Madrid",
+     "por_que": "Recorre sus salones y descubre la historia monárquica española.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Teatro de la Zarzuela",
+     "por_que": "Disfruta de espectáculos de zarzuela, una tradición musical única.",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Centro Cultural Casa de Vacas",
+     "por_que": "Exposiciones contemporáneas que complementan la oferta histórica.",
+     "momento": "cualquier momento"
+    }
+   ],
+   "plan_dia_tipo": "Mañana en el Museo del Prado, tarde en el Palacio Real y el Teatro Real, y noche cerrando con una zarzuela.",
+   "consejos": [
+    "Compra la tarjeta turística para acceso ilimitado al transporte público.",
+    "Lleva calzado cómodo para caminar entre museos y teatros.",
+    "Reserva entradas con antelación para evitar colas en los espectáculos."
+   ]
+  },
+  "museos": {
+   "titular": "Descubre Madrid: museos, arte y encanto nocturno",
+   "barrios_sugeridos": [
+    "Rejas",
+    "Pueblo Nuevo",
+    "Palacio"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Museo del Prado",
+     "por_que": "Es la joya de la pintura clásica española y europea.",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Museo Thyssen-Bornemisza",
+     "por_que": "Ofrece una transición perfecta entre arte antiguo y moderno.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Palacio Real de Madrid",
+     "por_que": "La arquitectura y los jardines iluminados crean una experiencia mágica.",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Centro Cultural Casa de Vacas",
+     "por_que": "Exposiciones contemporáneas que complementan tu pasión por el arte.",
+     "momento": "cualquier momento"
+    },
+    {
+     "nombre": "Real Jardín Botánico de Madrid",
+     "por_que": "Un oasis verde para recargar energías entre visitas.",
+     "momento": "cualquier momento"
+    }
+   ],
+   "plan_dia_tipo": "Mañana en el Museo del Prado, tarde en el Museo Thyssen-Bornemisza y noche en el Palacio Real, con una parada en el Centro Cultural Casa de Vacas para un descanso artístico.",
+   "consejos": [
+    "Planifica tu visita con antelación para evitar filas en los museos más concurridos.",
+    "Aprovecha los horarios de entrada temprana para disfrutar de las colecciones sin multitudes.",
+    "Considera combinar museos con paseos por los jardines cercanos para un día equilibrado."
+   ]
+  },
+  "caminador": {
+   "titular": "Descubre Madrid a pie: parques y miradores que enamoran",
+   "barrios_sugeridos": [
+    "Rejas",
+    "Pueblo Nuevo",
+    "Universidad"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Parque del Retiro",
+     "por_que": "Ideal para paseos matutinos y disfrutar de su amplio espacio",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Monumento a Alfonso XII",
+     "por_que": "Un mirador con vistas panorámicas de la ciudad",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Cerro de Garabitas",
+     "por_que": "Ofrece una vista espectacular del skyline madrileño",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Parque del Retiro",
+     "por_que": "El parque se ilumina y es perfecto para caminatas nocturnas",
+     "momento": "noche"
+    }
+   ],
+   "plan_dia_tipo": "Comienza en el Parque del Retiro al amanecer, luego sube al Monumento a Alfonso XII para vistas al atardecer, y finaliza con una caminata por el Cerro de Garabitas al caer la noche.",
+   "consejos": [
+    "Lleva calzado cómodo para largas caminatas",
+    "Planifica tu ruta para aprovechar los horarios de apertura",
+    "Aprovecha los parques con horarios extendidos en verano"
+   ]
+  },
+  "familiar": {
+   "titular": "Diversión familiar en Madrid",
+   "barrios_sugeridos": [
+    "Rejas",
+    "Pueblo Nuevo",
+    "Universidad"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Parque del Retiro",
+     "por_que": "Espacio amplio para que los niños jueguen y la familia disfrute de un paseo tranquilo.",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Zoo Aquarium de Madrid",
+     "por_que": "Aventuras acuáticas y animales que fascinan a grandes y pequeños.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Parque de Atracciones de Madrid",
+     "por_que": "Diversión con montañas rusas y espectáculos para toda la familia.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Museo del Prado",
+     "por_que": "Obras maestras que inspiran a los adultos y curiosidad en los niños.",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Faunia",
+     "por_que": "Exploración de ecosistemas que educa y entretiene a los más jóvenes.",
+     "momento": "cualquier momento"
+    }
+   ],
+   "plan_dia_tipo": "Mañana en el Parque del Retiro, tarde en el Zoo Aquarium y noche en el Museo del Prado para un día equilibrado.",
+   "consejos": [
+    "Planifica actividades al aire libre para los niños durante las horas de mayor luz.",
+    "Aprovecha los horarios de entrada temprana en museos para evitar multitudes.",
+    "Considera un día de descanso en el parque para que todos se relajen."
+   ]
+  },
+  "nocturno": {
+   "titular": "Vive la noche madrileña al máximo",
+   "barrios_sugeridos": [
+    "Rejas",
+    "Pueblo Nuevo",
+    "Universidad"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "La Riviera",
+     "por_que": "Su ambiente cambiante y la programación exclusiva atrae a los noctámbulos.",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Joy Eslava",
+     "por_que": "Famoso por su música en vivo y su vibra bohemia, ideal para seguir la noche.",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Teatro Magno",
+     "por_que": "Ofrece espectáculos de música y teatro que combinan con la vida nocturna.",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Casa Mingo",
+     "por_que": "Su cocina chicken y horario hasta la medianoche permite una cena relajada antes de la fiesta.",
+     "momento": "tarde"
+    }
+   ],
+   "plan_dia_tipo": "Comienza con una cena en Casa Mingo, luego disfruta de la música en Joy Eslava y termina la noche en La Riviera para cerrar con estilo.",
+   "consejos": [
+    "Explora los bares con programación variada para descubrir nuevas propuestas cada noche.",
+    "Aprovecha los horarios extendidos de los restaurantes para cenar antes de la noche de fiesta.",
+    "Mantén tu móvil cargado y lleva una botella de agua para disfrutar sin preocupaciones."
+   ]
+  },
+  "generalista": {
+   "titular": "Descubre Madrid: cultura, naturaleza y sabor en un día",
+   "barrios_sugeridos": [
+    "Rejas",
+    "Pueblo Nuevo",
+    "Universidad"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Palacio Real",
+     "por_que": "Es la joya arquitectónica y cultural de Madrid.",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Museo del Prado",
+     "por_que": "Colección de arte clásico que cautiva a todo viajero.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Mercado de San Miguel",
+     "por_que": "Ambiente vibrante y variedad de tapas para cerrar el día.",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Parque del Retiro",
+     "por_que": "Espacio verde perfecto para relajarse y disfrutar de la ciudad.",
+     "momento": "cualquier momento"
+    },
+    {
+     "nombre": "El Rastro",
+     "por_que": "Mercado de pulgas ideal para encontrar tesoros únicos.",
+     "momento": "cualquier momento"
+    }
+   ],
+   "plan_dia_tipo": "Mañana en el Palacio Real, tarde en el Museo del Prado y noche en el Mercado de San Miguel, con un paseo por el Retiro entre ambos.",
+   "consejos": [
+    "Planifica tu visita a los museos con anticipación para evitar filas.",
+    "Aprovecha los horarios extendidos de los parques en verano.",
+    "Explora los mercados locales para probar la gastronomía típica."
+   ]
+  },
+  "playero": {
+   "titular": "Madrid: Vistas y vida nocturna, sin playa",
+   "barrios_sugeridos": [
+    "Rejas",
+    "Pueblo Nuevo",
+    "Palos de Moguer"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Monumento a Alfonso XII",
+     "por_que": "Te brinda vistas panorámicas de la ciudad al amanecer.",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Cerro de Garabitas",
+     "por_que": "Es ideal para disfrutar del atardecer y la arquitectura de la zona.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "La Riviera",
+     "por_que": "Ofrece ambiente nocturno con música y ambiente relajado.",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Joy Eslava",
+     "por_que": "Conocido por su ambiente animado y buena música.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Teatro Magno",
+     "por_que": "Perfecto para disfrutar de espectáculos y ambiente nocturno.",
+     "momento": "noche"
+    }
+   ],
+   "plan_dia_tipo": "Mañana: Mirador · Monumento a Alfonso XII. Tarde: Mirador · Cerro de Garabitas y Bar / vida nocturna · Joy Eslava. Noche: Bar / vida nocturna · La Riviera o Teatro Magno.",
+   "consejos": [
+    "Madrid no tiene costa, pero ofrece miradores con vistas panorámicas.",
+    "Explora la vida nocturna en barrios céntricos para sentir la energía local.",
+    "Prueba la gastronomía local en restaurantes con cocina regional."
+   ]
+  }
+ },
+ "mallorca": {
+  "playero": {
+   "titular": "Disfruta del sol, mar y chiringuitos en Mallorca",
+   "barrios_sugeridos": [
+    "Selva",
+    "Campos",
+    "Valldemossa"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Playa de es Trenc",
+     "por_que": "la arena fina y el agua cristalina son perfectos para un amanecer relajado",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Cala Màrmols",
+     "por_que": "ideal para un día de descanso con vistas espectaculares y ambiente tranquilo",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Balneario 6",
+     "por_que": "el ambiente nocturno y la música hacen que la noche sea inolvidable",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Mirador Puig de na Morisca",
+     "por_que": "ofrece vistas panorámicas del mar y la costa, ideal para fotos al atardecer",
+     "momento": "cualquier momento"
+    }
+   ],
+   "plan_dia_tipo": "Mañana en Playa de es Trenc, tarde relajándote en Cala Màrmols y noche en Balneario 6, terminando con una vista al atardecer desde Mirador Puig de na Morisca",
+   "consejos": [
+    "Busca chiringuitos con vistas al mar para disfrutar del atardecer",
+    "Asegúrate de llevar protector solar y una botella de agua",
+    "Explora las calas menos concurridas para una experiencia más tranquila"
+   ]
+  },
+  "museos": {
+   "titular": "Descubre la esencia artística de Mallorca",
+   "barrios_sugeridos": [
+    "Selva",
+    "Campos",
+    "Valldemossa"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Fundació Pilar i Joan Miró a Mallorca",
+     "por_que": "Explora la obra icónica del artista y su influencia en el arte moderno.",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Gran Hotel CaixaForum",
+     "por_que": "Disfruta de exposiciones contemporáneas en un entorno elegante.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Es Baluard",
+     "por_que": "Vive la colección de arte contemporáneo con vistas al mar iluminado.",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Oratori de Sant Feliu",
+     "por_que": "Sumérgete en la creatividad local y obras de artistas emergentes.",
+     "momento": "cualquier momento"
+    }
+   ],
+   "plan_dia_tipo": "Mañana en Fundació Pilar i Joan Miró, tarde en Gran Hotel CaixaForum y noche en Es Baluard para una jornada artística completa.",
+   "consejos": [
+    "Planifica tu visita a los museos con anticipación para evitar filas.",
+    "Aprovecha los horarios de entrada temprana para disfrutar de las exposiciones sin multitudes.",
+    "Considera combinar museos con galerías para una experiencia artística completa."
+   ]
+  },
+  "foodie": {
+   "titular": "Saborea Mallorca: mercados, tapas y más",
+   "barrios_sugeridos": [
+    "Selva",
+    "Campos",
+    "Valldemossa"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Mercado del Olivar",
+     "por_que": "Comienza el día con productos frescos y aromas mediterráneos.",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Es Molí de Santanyí",
+     "por_que": "Disfruta de tapas auténticas y ambiente relajado.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Mercat de Pere Garau",
+     "por_que": "Explora la variedad de alimentos locales y artesanías.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Forastera Cerveza Artesana",
+     "por_que": "Degusta cervezas artesanales y comida reconfortante.",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Balneario 6",
+     "por_que": "Relájate con música y vistas nocturnas.",
+     "momento": "noche"
+    }
+   ],
+   "plan_dia_tipo": "Mañana en Mercado del Olivar, tarde en Es Molí de Santanyí y Mercat de Pere Garau, noche en Forastera Cerveza Artesana y Balneario 6.",
+   "consejos": [
+    "Visita los mercados temprano para evitar multitudes y probar productos frescos locales.",
+    "Prueba las tapas en Es Molí de Santanyí, ideal para degustar variedad de sabores mallorquines.",
+    "No olvides explorar la cocina local en Galilea y Deli Santa Maria para una experiencia gastronómica completa."
+   ]
+  },
+  "cultural": {
+   "titular": "Descubre la esencia cultural de Mallorca",
+   "barrios_sugeridos": [
+    "Selva",
+    "Campos",
+    "Valldemossa"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Castillo de Bellver",
+     "por_que": "Su vista panorámica y historia medieval cautivan a los amantes del patrimonio.",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Fundació Pilar i Joan Miró a Mallorca",
+     "por_que": "Exposiciones de arte contemporáneo que inspiran a los viajeros culturales.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Teatre Principal",
+     "por_que": "Obras de teatro locales que ofrecen una experiencia auténtica de la cultura mallorquina.",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Es Baluard",
+     "por_que": "Museo de arte moderno con vistas al mar, ideal para explorar la creatividad local.",
+     "momento": "cualquier momento"
+    },
+    {
+     "nombre": "Catedral de Santa María de Palma de Mallorca",
+     "por_que": "Arquitectura gótica impresionante que refleja la historia religiosa de la isla.",
+     "momento": "cualquier momento"
+    }
+   ],
+   "plan_dia_tipo": "Mañana en el Castillo de Bellver, tarde en la Fundació Miró y noche en el Teatre Principal para un día completo de cultura.",
+   "consejos": [
+    "Planifica tu visita a los monumentos temprano para evitar multitudes.",
+    "Aprovecha los horarios de apertura extendidos de los museos los fines de semana.",
+    "Revisa la programación de teatro antes de llegar para no perderte obras destacadas."
+   ]
+  },
+  "familiar": {
+   "titular": "Diversión familiar en Mallorca: playa, acuarios y cultura",
+   "barrios_sugeridos": [
+    "Selva",
+    "Campos",
+    "Valldemossa"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Playa de es Trenc",
+     "por_que": "la arena fina y el agua cristalina son perfectos para familias con niños pequeños",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Palma Aquarium",
+     "por_que": "interactiva y educativa, ideal para que los niños aprendan sobre vida marina",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Parque del Mar",
+     "por_que": "espacio amplio para juegos y picnic, con vistas al mar",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Es Baluard",
+     "por_que": "exhibiciones culturales que entretienen a adultos y curiosos",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Western Water Park",
+     "por_que": "toboganes y piscinas que mantienen a los niños activos y felices",
+     "momento": "tarde"
+    }
+   ],
+   "plan_dia_tipo": "Mañana en Playa de es Trenc, tarde en Palma Aquarium y Parque del Mar, noche en Es Baluard para una experiencia familiar completa",
+   "consejos": [
+    "Planifica actividades al aire libre para aprovechar el clima soleado",
+    "Reserva entradas con antelación para los parques acuáticos",
+    "Incluye tiempo de descanso en la playa para los niños"
+   ]
+  },
+  "generalista": {
+   "titular": "Descubre Mallorca: historia, arte y playa en un solo viaje",
+   "barrios_sugeridos": [
+    "Selva",
+    "Campos",
+    "Valldemossa"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Castillo de Bellver",
+     "por_que": "Te ofrece vistas panorámicas de Palma y un recorrido histórico.",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Catedral de Santa María de Palma de Mallorca",
+     "por_que": "Su arquitectura gótica y su interior impresionante son un must.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Playa de es Trenc",
+     "por_que": "Disfruta del atardecer y la tranquilidad de la costa.",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Fundació Pilar i Joan Miró a Mallorca",
+     "por_que": "Descubre la obra del artista en un entorno inspirador.",
+     "momento": "cualquier momento"
+    },
+    {
+     "nombre": "Mercado del Olivar",
+     "por_que": "Saborea productos frescos y la vida local.",
+     "momento": "cualquier momento"
+    },
+    {
+     "nombre": "Mirador Puig de na Morisca",
+     "por_que": "Obten una vista espectacular de la isla.",
+     "momento": "cualquier momento"
+    }
+   ],
+   "plan_dia_tipo": "Mañana en el Castillo de Bellver, tarde en la Catedral y noche en la Playa de es Trenc, con paradas en el Mirador Puig de na Morisca y el Mercado del Olivar para un día completo.",
+   "consejos": [
+    "Explora los mercados locales para probar la gastronomía mallorquina.",
+    "Visita los monumentos en horarios de menor afluencia para una experiencia más tranquila.",
+    "Aprovecha las playas de 24/7 para relajarte sin prisas."
+   ]
+  },
+  "caminador": {
+   "titular": "Explora Mallorca a pie: parques, miradores y cultura",
+   "barrios_sugeridos": [
+    "Valldemossa",
+    "Campos",
+    "Selva"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Parque del Mar",
+     "por_que": "Ideal para comenzar el día con un paseo relajado junto al mar",
+     "momento": "mañana"
+    },
+    {
+     "nombre": "Castell de la Punta de n'Amer",
+     "por_que": "Ofrece vistas panorámicas espectaculares de la costa",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Plaça d'en Simó Andreu",
+     "por_que": "Espacio verde perfecto para un descanso entre caminatas",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Castillo de Bellver",
+     "por_que": "Ambiente histórico y vistas nocturnas de Palma",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Mirador Puig de na Morisca",
+     "por_que": "Punto de observación con vistas al interior de la isla",
+     "momento": "tarde"
+    }
+   ],
+   "plan_dia_tipo": "Mañana: Parque del Mar → Tarde: Mirador Castell de la Punta de n'Amer y Mirador Puig de na Morisca → Noche: Castillo de Bellver",
+   "consejos": [
+    "Lleva calzado cómodo y agua para largas caminatas",
+    "Planifica tus rutas con antelación para aprovechar la luz del día",
+    "Revisa los horarios de los monumentos antes de visitarlos"
+   ]
+  },
+  "nocturno": {
+   "titular": "Noche sin límites en Mallorca",
+   "barrios_sugeridos": [
+    "Selva",
+    "Campos",
+    "Valldemossa"
+   ],
+   "imperdibles": [
+    {
+     "nombre": "Stereo Temple",
+     "por_que": "El ambiente nocturno y la música continua hacen de este lugar el epicentro de la vida nocturna.",
+     "momento": "noche"
+    },
+    {
+     "nombre": "Balneario 6",
+     "por_que": "Ideal para relajarte antes de la noche y disfrutar de un ambiente relajado.",
+     "momento": "tarde"
+    },
+    {
+     "nombre": "Forastera Cerveza Artesana",
+     "por_que": "Su oferta de cervezas artesanas y ambiente acogedor lo convierten en un punto de encuentro nocturno.",
+     "momento": "noche"
+    }
+   ],
+   "plan_dia_tipo": "Comienza con una tarde en Balneario 6, cena y música en Forastera Cerveza Artesana, y termina la noche en Stereo Temple con música hasta las 4 a.m.",
+   "consejos": [
+    "Explora los bares con horarios extendidos para disfrutar de la noche sin prisas.",
+    "Busca lugares con música en vivo para una experiencia auténtica.",
+    "Aprovecha los espacios que combinan comida y bebida para prolongar la velada."
+   ]
+  }
+ }
+}

@@ -1,0 +1,4 @@
+-r ../app/requirements.txt
+nbformat>=5.10     # generar la notebook (build_notebook.py)
+nbconvert>=7.16    # ejecutarla
+ipykernel>=6.29
